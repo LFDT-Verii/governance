@@ -5,6 +5,12 @@ teams:
       - jwagantall
     members:
       - thelinuxfoundation
+  - name: verii-maintainers
+    maintainers:
+      - ItayPodhajcer
+    members:
+      - nassan
+      - sloops77
 
 repositories:
   - name: governance
