@@ -17,3 +17,11 @@ repositories:
     teams:
       lf-staff: maintain
     visibility: public
+  - name: .github
+    teams:
+      verii-maintainers: admin
+    visibility: public
+  - name: core
+    teams:
+      verii-maintainers: admin
+    visibility: public
