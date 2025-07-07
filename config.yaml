@@ -18,9 +18,11 @@ repositories:
   - name: governance
     teams:
       lf-staff: maintain
+      verii-maintainers: maintain
     visibility: public
   - name: .github
     teams:
+      lf-staff: maintain
       verii-maintainers: admin
     visibility: public
   - name: core
