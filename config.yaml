@@ -25,7 +25,3 @@ repositories:
       lf-staff: maintain
       verii-maintainers: admin
     visibility: public
-  - name: core
-    teams:
-      verii-maintainers: admin
-    visibility: public
