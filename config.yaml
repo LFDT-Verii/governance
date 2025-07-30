@@ -1,4 +1,9 @@
 teams:
+  - name: bots
+    maintainers:
+      - lfdt-bot
+    members:
+      - thelinuxfoundation
   - name: lf-staff
     maintainers:
       - ryjones
@@ -17,15 +22,18 @@ teams:
 repositories:
   - name: .github
     teams:
+      bots: maintain
       lf-staff: maintain
       verii-maintainers: admin
     visibility: public
   - name: core
     teams:
+      bots: maintain
       verii-maintainers: admin
     visibility: public
   - name: governance
     teams:
+      bots: maintain
       lf-staff: maintain
       verii-maintainers: maintain
     visibility: public
