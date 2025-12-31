@@ -14,6 +14,10 @@ teams:
     maintainers:
       - sloops77
     members:
+      - ItayPodhajcer
+      - nassan
+      - michaelavoyan
+      - npyvovartseva
 
 repositories:
   - name: .github
