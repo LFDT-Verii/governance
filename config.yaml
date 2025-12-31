@@ -12,12 +12,8 @@ teams:
       - thelinuxfoundation
   - name: verii-maintainers
     maintainers:
-      - ItayPodhajcer
       - sloops77
     members:
-      - nassan
-      - michaelavoyan
-      - npyvovartseva
 
 repositories:
   - name: .github
